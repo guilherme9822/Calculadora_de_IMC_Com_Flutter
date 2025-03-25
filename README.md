@@ -1,2 +1,2 @@
-# Calculadora_de_IMC_Com_Flutter
-Esse é um projeto interessante que utiliza muito da minha capacidade de conhecimento Dart que conheci ate agora.
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
